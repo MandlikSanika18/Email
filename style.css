@@ -48,3 +48,6 @@ span{
     margin-top: 10px;
     display: block;
 }
+#msg{
+    display: none;
+}
